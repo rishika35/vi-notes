@@ -41,14 +41,13 @@ async function startServer() {
 
   // ✅ FIXED CORS (IMPORTANT)
   app.use(cors({
-    origin: [
-      "http://localhost:5173",
-      "http://localhost:3000",
-      "https://vi-notes-tgxf.vercel.app" // 🔥 REPLACE AFTER DEPLOY
-    ],
+    origin: "https://vi-notes-tgxf.vercel.app" // 🔥 REPLACE AFTER DEPLOY
     credentials: true
   }));
-
+app.options("*", cors({
+  origin: "https://vi-notes-tgxf.vercel.app",
+  credentials: true
+}));
   // =========================
   // 🔐 AUTH MIDDLEWARE
   // =========================
