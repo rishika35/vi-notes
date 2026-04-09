@@ -43,7 +43,7 @@ async function startServer() {
   app.use(cors({
     origin: [
       "http://localhost:5173",
-      "https://your-vercel-app.vercel.app" // 🔥 REPLACE AFTER DEPLOY
+      "https://vi-notes-tgxf.vercel.app" // 🔥 REPLACE AFTER DEPLOY
     ],
     credentials: true
   }));
