@@ -5,5 +5,12 @@
     "password": "$2b$10$8JPVbxQozPpweB0L/76tQe5DWPdPsfckXGxJPOyj5ei1O3NxubSOW",
     "displayName": "rishika",
     "createdAt": 1775272635366
+  },
+  {
+    "id": "8kk5z5sarmb",
+    "email": "rishi@gmail.com",
+    "password": "$2b$10$TLe.GzS1dVwUcQl0Rg/ysOvF5tdwjJ.AV7yeYsQOe4zitUKff4kKS",
+    "displayName": "rishika",
+    "createdAt": 1775765572003
   }
 ]

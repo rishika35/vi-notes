@@ -1,9 +1,6 @@
 import { WritingSession, UserProfile } from "../types";
 
-const API_BASE =
-  import.meta.env.MODE === "development"
-    ? "/api"
-    : "https://vi-notes-lc30.onrender.com/api";
+const API_BASE = "https://vi-notes-lc30.onrender.com/api";
 
 export const api = {
   auth: {
