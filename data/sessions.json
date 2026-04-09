@@ -1,0 +1,754 @@
+[
+  {
+    "title": "Untitled Session",
+    "content": "hi hello good morningA Database Management System (DBMS) is software that acts as an interface between end-users and databases, allowing for the efficient creation, retrieval, manageme",
+    "keystrokes": [
+      {
+        "timestamp": 1775272640898,
+        "key": "h",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272641030,
+        "key": "h",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272641112,
+        "key": "i",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272641219,
+        "key": "i",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272641392,
+        "key": " ",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272641468,
+        "key": " ",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272643112,
+        "key": "h",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272643246,
+        "key": "h",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272643419,
+        "key": "e",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272643541,
+        "key": "e",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272643861,
+        "key": "l",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272643943,
+        "key": "l",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272644011,
+        "key": "l",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272644076,
+        "key": "l",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272644171,
+        "key": "o",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272644232,
+        "key": "o",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272644414,
+        "key": " ",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272644487,
+        "key": " ",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272645396,
+        "key": "g",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272645447,
+        "key": "g",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272645825,
+        "key": "o",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272645894,
+        "key": "o",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272645981,
+        "key": "o",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272646037,
+        "key": "o",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272646159,
+        "key": "d",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272646237,
+        "key": "d",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272646336,
+        "key": " ",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272646418,
+        "key": " ",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272646659,
+        "key": "m",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272646707,
+        "key": "m",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272646897,
+        "key": "o",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272646961,
+        "key": "o",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272647190,
+        "key": "t",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272647258,
+        "key": "t",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272647966,
+        "key": "Backspace",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272648032,
+        "key": "Backspace",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272648211,
+        "key": "r",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272648286,
+        "key": "r",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272648500,
+        "key": "n",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272648555,
+        "key": "n",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272648711,
+        "key": "i",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272648832,
+        "key": "i",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272648888,
+        "key": "n",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272648973,
+        "key": "n",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272649174,
+        "key": "g",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272649229,
+        "key": "g",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272663000,
+        "key": "Control",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272663490,
+        "key": "v",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272663706,
+        "key": "Control",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272663709,
+        "key": "v",
+        "type": "keyup"
+      }
+    ],
+    "pastes": [
+      {
+        "timestamp": 1775272663494,
+        "contentLength": 163,
+        "content": "A Database Management System (DBMS) is software that acts as an interface between end-users and databases, allowing for the efficient creation, retrieval, manageme"
+      }
+    ],
+    "metrics": {
+      "wpm": 68,
+      "accuracy": 11.41304347826087,
+      "totalKeystrokes": 50,
+      "totalPastes": 1,
+      "duration": 22.811
+    },
+    "id": "d844149g10a",
+    "userId": "jmgilxx8qh",
+    "createdAt": 1775272667378,
+    "updatedAt": 1775272667378
+  },
+  {
+    "title": "daa",
+    "content": "A Database Management System (DBMS) is software that acts as an interface between end-users and databases, allowing for the efficient creation, retrieval, management, and manipulation of data. It ensures data security, integrity, and structured organization, using languages like SQL for operations. Key examples include MySQL, PostgreSQL, and Oracle. \nGeeksforGeeks\nGeeksforGeeks\n +3\nThis video provides an introduction to Database ",
+    "keystrokes": [
+      {
+        "timestamp": 1775272723940,
+        "key": "Control",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272724153,
+        "key": "v",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775272724222,
+        "key": "Control",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775272724273,
+        "key": "v",
+        "type": "keyup"
+      }
+    ],
+    "pastes": [
+      {
+        "timestamp": 1775272724155,
+        "contentLength": 437,
+        "content": "A Database Management System (DBMS) is software that acts as an interface between end-users and databases, allowing for the efficient creation, retrieval, management, and manipulation of data. It ensures data security, integrity, and structured organization, using languages like SQL for operations. Key examples include MySQL, PostgreSQL, and Oracle. \r\nGeeksforGeeks\r\nGeeksforGeeks\r\n +3\r\nThis video provides an introduction to Database "
+      }
+    ],
+    "metrics": {
+      "wpm": 10450,
+      "accuracy": 0,
+      "totalKeystrokes": 4,
+      "totalPastes": 1,
+      "duration": 0.333
+    },
+    "id": "fobl8bzkeab",
+    "userId": "jmgilxx8qh",
+    "createdAt": 1775272728355,
+    "updatedAt": 1775272728355
+  },
+  {
+    "title": "great ideas",
+    "content": "A good topic for writing an essay is specific, researchable, and relevant to your assignment. It should interest you, fit your essay type, and have credible sources available. Use this simple checklist before you start writing.\n\nAssignment Fit\n\nMatches your essay type (argumentative, persuasive, descriptive, narrative, etc.)\nFits within the required word count and difficulty level\nMeets your instructor’s subject or formatting guidelines\n\ngood paragraph good impressions.",
+    "keystrokes": [
+      {
+        "timestamp": 1775321800685,
+        "key": "Control",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321801039,
+        "key": "v",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321801196,
+        "key": "Control",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321801236,
+        "key": "v",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321804663,
+        "key": "Shift",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321804861,
+        "key": "Enter",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321805018,
+        "key": "Enter",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321805175,
+        "key": "Enter",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321805278,
+        "key": "Enter",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321805363,
+        "key": "Shift",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321808405,
+        "key": "g",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321808490,
+        "key": "g",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321808724,
+        "key": "o",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321808796,
+        "key": "o",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321808897,
+        "key": "o",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321808957,
+        "key": "o",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321809177,
+        "key": "d",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321809250,
+        "key": "d",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321809520,
+        "key": " ",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321809604,
+        "key": " ",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321809894,
+        "key": "g",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321809961,
+        "key": "g",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321810583,
+        "key": "Backspace",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321810706,
+        "key": "Backspace",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321811411,
+        "key": "p",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321811517,
+        "key": "p",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321811786,
+        "key": "a",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321811875,
+        "key": "a",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321812104,
+        "key": "r",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321812248,
+        "key": "r",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321812325,
+        "key": "a",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321812435,
+        "key": "a",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321812930,
+        "key": "g",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321813010,
+        "key": "g",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321813193,
+        "key": "r",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321813261,
+        "key": "r",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321813395,
+        "key": "a",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321813398,
+        "key": "s",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321813451,
+        "key": "a",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321813455,
+        "key": "s",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321814298,
+        "key": "Backspace",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321814415,
+        "key": "Backspace",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321816129,
+        "key": "p",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321816250,
+        "key": "p",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321816457,
+        "key": "h",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321816531,
+        "key": "h",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321816686,
+        "key": " ",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321816799,
+        "key": " ",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321817515,
+        "key": "g",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321817617,
+        "key": "g",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321818050,
+        "key": "o",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321818113,
+        "key": "o",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321818194,
+        "key": "o",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321818258,
+        "key": "o",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321818740,
+        "key": "d",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321818811,
+        "key": "d",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321819021,
+        "key": " ",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321819090,
+        "key": " ",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321819379,
+        "key": "i",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321819447,
+        "key": "i",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321819626,
+        "key": "m",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321819714,
+        "key": "m",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321819897,
+        "key": "p",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321819999,
+        "key": "p",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321820351,
+        "key": "r",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321820413,
+        "key": "r",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321820580,
+        "key": "e",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321820643,
+        "key": "e",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321820845,
+        "key": "s",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321820892,
+        "key": "s",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321820985,
+        "key": "s",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321821045,
+        "key": "s",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321821318,
+        "key": "i",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321821408,
+        "key": "i",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321821533,
+        "key": "o",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321821618,
+        "key": "o",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321821744,
+        "key": "n",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321821833,
+        "key": "n",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321822148,
+        "key": "s",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321822207,
+        "key": "s",
+        "type": "keyup"
+      },
+      {
+        "timestamp": 1775321823858,
+        "key": ".",
+        "type": "keydown"
+      },
+      {
+        "timestamp": 1775321823933,
+        "key": ".",
+        "type": "keyup"
+      }
+    ],
+    "pastes": [
+      {
+        "timestamp": 1775321801043,
+        "contentLength": 446,
+        "content": "A good topic for writing an essay is specific, researchable, and relevant to your assignment. It should interest you, fit your essay type, and have credible sources available. Use this simple checklist before you start writing.\r\n\r\nAssignment Fit\r\n\r\nMatches your essay type (argumentative, persuasive, descriptive, narrative, etc.)\r\nFits within the required word count and difficulty level\r\nMeets your instructor’s subject or formatting guidelines"
+      }
+    ],
+    "metrics": {
+      "wpm": 173,
+      "accuracy": 5.9071729957805905,
+      "totalKeystrokes": 82,
+      "totalPastes": 1,
+      "duration": 23.248
+    },
+    "id": "03i35ybmuydc",
+    "userId": "jmgilxx8qh",
+    "createdAt": 1775321826080,
+    "updatedAt": 1775321826080
+  }
+]

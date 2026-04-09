@@ -1,0 +1,5 @@
+{
+  "name": "Vi-Notes",
+  "description": "An authenticity verification platform that ensures genuine human writing through keyboard activity monitoring and statistical signature analysis.",
+  "requestFramePermissions": []
+}
