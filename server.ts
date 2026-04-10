@@ -197,7 +197,22 @@ async function startServer() {
     await fs.writeFile(SESSIONS_FILE, JSON.stringify(filtered, null, 2));
     res.json({ success: true });
   });
+// =========================
+// 📄 GET SINGLE SESSION
+// =========================
+app.get("/api/sessions/:id", authenticate, async (req: any, res) => {
+  const sessions = JSON.parse(await fs.readFile(SESSIONS_FILE, "utf-8"));
 
+  const session = sessions.find(
+    (s: any) => s.id === req.params.id && s.userId === req.userId
+  );
+
+  if (!session) {
+    return res.status(404).json({ error: "Session not found" });
+  }
+
+  res.json(session);
+});
   // =========================
   // ⚡ VITE / PRODUCTION
   // =========================
