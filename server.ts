@@ -39,15 +39,18 @@ async function startServer() {
   app.use(express.json({ limit: "50mb" }));
   app.use(cookieParser());
 
-  // ✅ FIXED CORS (IMPORTANT)
-  app.use(cors({
-    origin: "https://vi-notes-tgxf.vercel.app" // 🔥 REPLACE AFTER DEPLOY
-    credentials: true
-  }));
-app.options("*", cors({
-  origin: "https://vi-notes-tgxf.vercel.app",
-  credentials: true
-}));
+  app.use((req, res, next) => {
+  res.setHeader("Access-Control-Allow-Origin", "https://vi-notes-tgxf.vercel.app");
+  res.setHeader("Access-Control-Allow-Credentials", "true");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type, Authorization");
+  res.setHeader("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS");
+
+  if (req.method === "OPTIONS") {
+    return res.sendStatus(200);
+  }
+
+  next();
+});
   // =========================
   // 🔐 AUTH MIDDLEWARE
   // =========================
